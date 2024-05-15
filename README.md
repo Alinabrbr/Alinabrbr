@@ -22,8 +22,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Обо мне :
 
- Я Алина - Front-end разработчик родом из Подмосковья. Ищу продуктовую команду для совместной работы, роста и развития. В последние годы я много путешествую и изучаю мир,
-поэтому рассматриваю преимущественно удаленную работу. 
+ Я Алина - Front-end разработчик родом из Подмосковья. Ищу продуктовую команду для совместной работы, роста и развития. В последние годы я много путешествую и изучаю мир, поэтому рассматриваю преимущественно удаленную работу. 
 
 ### 🛠️ Языки и инструменты :
 
@@ -39,5 +38,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>
 </div>
